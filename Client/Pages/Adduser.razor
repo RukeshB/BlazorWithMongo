@@ -1,0 +1,33 @@
+@page "/adduser"
+@using BlazorWithMongo.Shared
+@inject HttpClient Http
+@* for redirection *@
+@inject NavigationManager NavManager
+
+<div>
+    <h1>Add user</h1>
+
+    <label for="name">Name</label>
+    <input class="form-control mb-3" type="text" name="name" @bind-value="newuser.Name">
+
+    <label for="email">email</label>
+    <input class="form-control mb-3" type="email" name="email" @bind-value="newuser.Email">
+
+    <label for="password">Password</label>
+    <input type="password" name="password" class="form-control mb-3" @bind-value="newuser.Password">
+
+    <button class="btn btn-primary" type="submit" @onclick="SubmitUser">Submit</button>
+</div>
+
+@code
+{
+    private User newuser = new User();
+
+    private async Task SubmitUser()
+    {
+        await Http.PostAsJsonAsync<User>("api/user", newuser);
+
+        //redirect to list user page
+        NavManager.NavigateTo("/listuser");
+    }
+}

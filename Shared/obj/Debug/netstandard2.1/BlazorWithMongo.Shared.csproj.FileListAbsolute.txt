@@ -1,0 +1,9 @@
+C:\Users\Rukesh\Desktop\BlazorWithMongo\Shared\bin\Debug\netstandard2.1\BlazorWithMongo.Shared.deps.json
+C:\Users\Rukesh\Desktop\BlazorWithMongo\Shared\bin\Debug\netstandard2.1\BlazorWithMongo.Shared.dll
+C:\Users\Rukesh\Desktop\BlazorWithMongo\Shared\bin\Debug\netstandard2.1\BlazorWithMongo.Shared.pdb
+C:\Users\Rukesh\Desktop\BlazorWithMongo\Shared\obj\Debug\netstandard2.1\BlazorWithMongo.Shared.csprojAssemblyReference.cache
+C:\Users\Rukesh\Desktop\BlazorWithMongo\Shared\obj\Debug\netstandard2.1\BlazorWithMongo.Shared.AssemblyInfoInputs.cache
+C:\Users\Rukesh\Desktop\BlazorWithMongo\Shared\obj\Debug\netstandard2.1\BlazorWithMongo.Shared.AssemblyInfo.cs
+C:\Users\Rukesh\Desktop\BlazorWithMongo\Shared\obj\Debug\netstandard2.1\BlazorWithMongo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Rukesh\Desktop\BlazorWithMongo\Shared\obj\Debug\netstandard2.1\BlazorWithMongo.Shared.dll
+C:\Users\Rukesh\Desktop\BlazorWithMongo\Shared\obj\Debug\netstandard2.1\BlazorWithMongo.Shared.pdb

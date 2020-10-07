@@ -1,0 +1,37 @@
+@page "/edituser/{id}"
+@using BlazorWithMongo.Shared
+@inject HttpClient Http
+@* for redirection *@
+@inject NavigationManager NavManager
+
+<div class="container">
+    <h1>Add user</h1>
+
+    <label for="name">Name</label>
+    <input class="form-control mb-3" type="text" name="name" @bind="user.Name">
+
+    <label for="email">email</label>
+    <input class="form-control mb-3" type="email" name="email" @bind="user.Email">
+
+    <button class="btn btn-primary" type="submit" @onclick="UpdateUser">Update</button>
+</div>
+
+@code
+{
+    //get id from listuser page
+    [Parameter]
+    public string id { get; set; }
+    private User user = new User();
+
+    protected override async Task OnInitializedAsync()
+    {
+        user = await Http.GetFromJsonAsync<User>("api/user/" + id);
+    }
+    private async Task UpdateUser()
+    {
+        await Http.PutAsJsonAsync<User>("api/user/" + id, user);
+
+    //redirect to list user page
+                NavManager.NavigateTo("/listuser");
+    }
+}
