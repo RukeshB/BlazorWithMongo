@@ -222,3 +222,5 @@ C:\Users\Rukesh\Desktop\BlazorWithMongo\server\obj\Debug\netcoreapp3.1\staticweb
 C:\Users\Rukesh\Desktop\BlazorWithMongo\server\obj\Debug\netcoreapp3.1\BlazorWithMongo.Server.dll
 C:\Users\Rukesh\Desktop\BlazorWithMongo\server\obj\Debug\netcoreapp3.1\BlazorWithMongo.Server.pdb
 C:\Users\Rukesh\Desktop\BlazorWithMongo\server\obj\Debug\netcoreapp3.1\BlazorWithMongo.Server.genruntimeconfig.cache
+C:\Users\Rukesh\Desktop\BlazorWithMongo\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Rukesh\Desktop\BlazorWithMongo\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll

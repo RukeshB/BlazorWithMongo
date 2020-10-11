@@ -41,88 +41,121 @@
         }
       },
       {
-        "HashCode": -306105030,
+        "HashCode": 1840252623,
         "Kind": "Components.Component",
-        "Name": "BlazorWithMongo.Client.Shared.SurveyPrompt",
+        "Name": "BlazorWithMongo.Client.Pages.Adduser",
         "AssemblyName": "BlazorWithMongo.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "Adduser"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWithMongo.Client.Shared.SurveyPrompt"
+          "Common.TypeName": "BlazorWithMongo.Client.Pages.Adduser"
         }
       },
       {
-        "HashCode": 1172939921,
+        "HashCode": 87214034,
         "Kind": "Components.Component",
-        "Name": "BlazorWithMongo.Client.Shared.SurveyPrompt",
+        "Name": "BlazorWithMongo.Client.Pages.Adduser",
         "AssemblyName": "BlazorWithMongo.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWithMongo.Client.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "BlazorWithMongo.Client.Pages.Adduser"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWithMongo.Client.Shared.SurveyPrompt",
+          "Common.TypeName": "BlazorWithMongo.Client.Pages.Adduser",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1547816993,
+        "HashCode": -1444585079,
         "Kind": "Components.Component",
-        "Name": "BlazorWithMongo.Client.Shared.NavMenu",
+        "Name": "BlazorWithMongo.Client.Pages.Edituser",
         "AssemblyName": "BlazorWithMongo.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "Edituser"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWithMongo.Client.Shared.NavMenu"
+          "Common.TypeName": "BlazorWithMongo.Client.Pages.Edituser"
         }
       },
       {
-        "HashCode": 1580508496,
+        "HashCode": 1998662288,
         "Kind": "Components.Component",
-        "Name": "BlazorWithMongo.Client.Shared.NavMenu",
+        "Name": "BlazorWithMongo.Client.Pages.Edituser",
         "AssemblyName": "BlazorWithMongo.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWithMongo.Client.Shared.NavMenu"
+            "TagName": "BlazorWithMongo.Client.Pages.Edituser"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWithMongo.Client.Shared.NavMenu",
+          "Common.TypeName": "BlazorWithMongo.Client.Pages.Edituser",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 700541691,
+        "Kind": "Components.Component",
+        "Name": "BlazorWithMongo.Client.Pages.Listusers",
+        "AssemblyName": "BlazorWithMongo.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Listusers"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWithMongo.Client.Pages.Listusers"
+        }
+      },
+      {
+        "HashCode": -1522603621,
+        "Kind": "Components.Component",
+        "Name": "BlazorWithMongo.Client.Pages.Listusers",
+        "AssemblyName": "BlazorWithMongo.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWithMongo.Client.Pages.Listusers"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWithMongo.Client.Pages.Listusers",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -223,121 +256,842 @@
         }
       },
       {
-        "HashCode": -1444585079,
+        "HashCode": -1547816993,
         "Kind": "Components.Component",
-        "Name": "BlazorWithMongo.Client.Pages.Edituser",
+        "Name": "BlazorWithMongo.Client.Shared.NavMenu",
         "AssemblyName": "BlazorWithMongo.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Edituser"
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWithMongo.Client.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 1580508496,
+        "Kind": "Components.Component",
+        "Name": "BlazorWithMongo.Client.Shared.NavMenu",
+        "AssemblyName": "BlazorWithMongo.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWithMongo.Client.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWithMongo.Client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -306105030,
+        "Kind": "Components.Component",
+        "Name": "BlazorWithMongo.Client.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorWithMongo.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "id",
+            "Name": "Title",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "id"
+              "Common.PropertyName": "Title"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWithMongo.Client.Pages.Edituser"
+          "Common.TypeName": "BlazorWithMongo.Client.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": 1998662288,
+        "HashCode": 1172939921,
         "Kind": "Components.Component",
-        "Name": "BlazorWithMongo.Client.Pages.Edituser",
+        "Name": "BlazorWithMongo.Client.Shared.SurveyPrompt",
         "AssemblyName": "BlazorWithMongo.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWithMongo.Client.Pages.Edituser"
+            "TagName": "BlazorWithMongo.Client.Shared.SurveyPrompt"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "id",
+            "Name": "Title",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "id"
+              "Common.PropertyName": "Title"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWithMongo.Client.Pages.Edituser",
+          "Common.TypeName": "BlazorWithMongo.Client.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 700541691,
+        "HashCode": 860021147,
         "Kind": "Components.Component",
-        "Name": "BlazorWithMongo.Client.Pages.Listusers",
-        "AssemblyName": "BlazorWithMongo.Client",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n             <summary>\n             Combines the behaviors of <see cref=\"T:Microsoft.AspNetCore.Components.Authorization.AuthorizeView\" /> and <see cref=\"T:Microsoft.AspNetCore.Components.RouteView\" />,\n             so that it displays the page matching the specified route but only if the user\n             is authorized to see it.\n            \n             Additionally, this component supplies a cascading parameter of type <see cref=\"T:System.Threading.Tasks.Task`1\" />,\n             which makes the user's current authentication state available to descendants.\n             </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Listusers"
+            "TagName": "AuthorizeRouteView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "NotAuthorized",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Authorization.AuthenticationState>",
+            "Documentation": "\n            <summary>\n            The content that will be displayed if the user is not authorized.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "NotAuthorized",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Authorizing",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            The content that will be displayed while asynchronous authorization is in progress.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Authorizing",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "RouteData",
+            "TypeName": "Microsoft.AspNetCore.Components.RouteData",
+            "Documentation": "\n            <summary>\n            Gets or sets the route data. This determines the page that will be\n            displayed and the parameter values that will be supplied to the page.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RouteData"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "DefaultLayout",
+            "TypeName": "System.Type",
+            "Documentation": "\n            <summary>\n            Gets or sets the type of a layout to be used if the page does not\n            declare any layout. If specified, the type must implement <see cref=\"T:Microsoft.AspNetCore.Components.IComponent\" />\n            and accept a parameter named <see cref=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\" />.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "DefaultLayout"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for all child content expressions.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWithMongo.Client.Pages.Listusers"
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView"
         }
       },
       {
-        "HashCode": -1522603621,
+        "HashCode": -2020500193,
         "Kind": "Components.Component",
-        "Name": "BlazorWithMongo.Client.Pages.Listusers",
-        "AssemblyName": "BlazorWithMongo.Client",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n             <summary>\n             Combines the behaviors of <see cref=\"T:Microsoft.AspNetCore.Components.Authorization.AuthorizeView\" /> and <see cref=\"T:Microsoft.AspNetCore.Components.RouteView\" />,\n             so that it displays the page matching the specified route but only if the user\n             is authorized to see it.\n            \n             Additionally, this component supplies a cascading parameter of type <see cref=\"T:System.Threading.Tasks.Task`1\" />,\n             which makes the user's current authentication state available to descendants.\n             </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWithMongo.Client.Pages.Listusers"
+            "TagName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "NotAuthorized",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Authorization.AuthenticationState>",
+            "Documentation": "\n            <summary>\n            The content that will be displayed if the user is not authorized.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "NotAuthorized",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Authorizing",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            The content that will be displayed while asynchronous authorization is in progress.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Authorizing",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "RouteData",
+            "TypeName": "Microsoft.AspNetCore.Components.RouteData",
+            "Documentation": "\n            <summary>\n            Gets or sets the route data. This determines the page that will be\n            displayed and the parameter values that will be supplied to the page.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "RouteData"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "DefaultLayout",
+            "TypeName": "System.Type",
+            "Documentation": "\n            <summary>\n            Gets or sets the type of a layout to be used if the page does not\n            declare any layout. If specified, the type must implement <see cref=\"T:Microsoft.AspNetCore.Components.IComponent\" />\n            and accept a parameter named <see cref=\"P:Microsoft.AspNetCore.Components.LayoutComponentBase.Body\" />.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "DefaultLayout"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for all child content expressions.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWithMongo.Client.Pages.Listusers",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1840252623,
-        "Kind": "Components.Component",
-        "Name": "BlazorWithMongo.Client.Pages.Adduser",
-        "AssemblyName": "BlazorWithMongo.Client",
+        "HashCode": -1839116017,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content that will be displayed if the user is not authorized.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Adduser"
+            "TagName": "NotAuthorized",
+            "ParentTag": "AuthorizeRouteView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'NotAuthorized' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
           }
         ],
         "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWithMongo.Client.Pages.Adduser"
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
+          "Components.IsSpecialKind": "Components.ChildContent"
         }
       },
       {
-        "HashCode": 87214034,
-        "Kind": "Components.Component",
-        "Name": "BlazorWithMongo.Client.Pages.Adduser",
-        "AssemblyName": "BlazorWithMongo.Client",
+        "HashCode": -53422528,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content that will be displayed if the user is not authorized.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWithMongo.Client.Pages.Adduser"
+            "TagName": "NotAuthorized",
+            "ParentTag": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'NotAuthorized' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1829921162,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content that will be displayed while asynchronous authorization is in progress.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Authorizing",
+            "ParentTag": "AuthorizeRouteView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -626171256,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content that will be displayed while asynchronous authorization is in progress.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Authorizing",
+            "ParentTag": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 889348011,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            Displays differing content depending on the user's authorization status.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AuthorizeView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Policy",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The policy name that determines whether the content can be displayed.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Policy"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Roles",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            A comma delimited list of roles that are allowed to display the content.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Roles"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Authorization.AuthenticationState>",
+            "Documentation": "\n            <summary>\n            The content that will be displayed if the user is authorized.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "NotAuthorized",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Authorization.AuthenticationState>",
+            "Documentation": "\n            <summary>\n            The content that will be displayed if the user is not authorized.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "NotAuthorized",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Authorized",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Authorization.AuthenticationState>",
+            "Documentation": "\n            <summary>\n            The content that will be displayed if the user is authorized.\n            If you specify a value for this parameter, do not also specify a value for <see cref=\"P:Microsoft.AspNetCore.Components.Authorization.AuthorizeViewCore.ChildContent\" />.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Authorized",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Authorizing",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            The content that will be displayed while asynchronous authorization is in progress.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Authorizing",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Resource",
+            "TypeName": "System.Object",
+            "Documentation": "\n            <summary>\n            The resource to which access is being controlled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Resource"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for all child content expressions.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWithMongo.Client.Pages.Adduser",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView"
+        }
+      },
+      {
+        "HashCode": -146825105,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            Displays differing content depending on the user's authorization status.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Policy",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            The policy name that determines whether the content can be displayed.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Policy"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Roles",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            A comma delimited list of roles that are allowed to display the content.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Roles"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Authorization.AuthenticationState>",
+            "Documentation": "\n            <summary>\n            The content that will be displayed if the user is authorized.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "NotAuthorized",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Authorization.AuthenticationState>",
+            "Documentation": "\n            <summary>\n            The content that will be displayed if the user is not authorized.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "NotAuthorized",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Authorized",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Authorization.AuthenticationState>",
+            "Documentation": "\n            <summary>\n            The content that will be displayed if the user is authorized.\n            If you specify a value for this parameter, do not also specify a value for <see cref=\"P:Microsoft.AspNetCore.Components.Authorization.AuthorizeViewCore.ChildContent\" />.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Authorized",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Authorizing",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            The content that will be displayed while asynchronous authorization is in progress.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Authorizing",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Resource",
+            "TypeName": "System.Object",
+            "Documentation": "\n            <summary>\n            The resource to which access is being controlled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Resource"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for all child content expressions.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1837207926,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content that will be displayed if the user is authorized.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "AuthorizeView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'ChildContent' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -151348510,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content that will be displayed if the user is authorized.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'ChildContent' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 289657753,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content that will be displayed if the user is not authorized.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NotAuthorized",
+            "ParentTag": "AuthorizeView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'NotAuthorized' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -169975510,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content that will be displayed if the user is not authorized.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NotAuthorized",
+            "ParentTag": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'NotAuthorized' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 893176354,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content that will be displayed if the user is authorized.\n            If you specify a value for this parameter, do not also specify a value for <see cref=\"P:Microsoft.AspNetCore.Components.Authorization.AuthorizeViewCore.ChildContent\" />.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Authorized",
+            "ParentTag": "AuthorizeView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'Authorized' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -1140358222,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content that will be displayed if the user is authorized.\n            If you specify a value for this parameter, do not also specify a value for <see cref=\"P:Microsoft.AspNetCore.Components.Authorization.AuthorizeViewCore.ChildContent\" />.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Authorized",
+            "ParentTag": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'Authorized' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -956408685,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content that will be displayed while asynchronous authorization is in progress.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Authorizing",
+            "ParentTag": "AuthorizeView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -679331131,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content that will be displayed while asynchronous authorization is in progress.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Authorizing",
+            "ParentTag": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1103045367,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CascadingAuthenticationState"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            The content to which the authentication state should be provided.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState"
+        }
+      },
+      {
+        "HashCode": -1976853111,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            The content to which the authentication state should be provided.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 961344000,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content to which the authentication state should be provided.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "CascadingAuthenticationState"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -712938960,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
+        "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
+        "Documentation": "\n            <summary>\n            The content to which the authentication state should be provided.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -2417,6 +3171,1498 @@
         "Metadata": {
           "Runtime.Name": "Components.None",
           "Common.TypeName": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -385538028,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            An <see cref=\"T:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore`1\" /> that uses <see cref=\"T:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationState\" /> as the\n            state to be persisted across authentication operations.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RemoteAuthenticatorView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Action",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the <see cref=\"T:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions\" /> action the component needs to handle.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Action"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "AuthenticationState",
+            "TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationState",
+            "Documentation": "\n            <summary>\n            Gets or sets the <typeparamref name=\"TAuthenticationState\" /> instance to be preserved during the authentication operation.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AuthenticationState"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LoggingIn",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogIn\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LoggingIn",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Registering",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Register\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Registering",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "UserProfile",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Profile\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "UserProfile",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CompletingLoggingIn",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInCallback\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "CompletingLoggingIn",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogInFailed",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<System.String>",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInFailed\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogInFailed",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogOut",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOut\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogOut",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CompletingLogOut",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutCallback\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "CompletingLogOut",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogOutFailed",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<System.String>",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutFailed\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogOutFailed",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogOutSucceeded",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutSucceeded\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogOutSucceeded",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnLogInSucceeded",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationState>",
+            "Documentation": "\n            <summary>\n            Gets or sets an event callback that will be invoked with the stored authentication state when a log in operation succeeds.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "OnLogInSucceeded",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnLogOutSucceeded",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationState>",
+            "Documentation": "\n            <summary>\n            Gets or sets an event callback that will be invoked with the stored authentication state when a log out operation succeeds.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "OnLogOutSucceeded",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ApplicationPaths",
+            "TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationApplicationPathsOptions",
+            "Documentation": "\n            <summary>\n            Gets or sets the <see cref=\"T:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationApplicationPathsOptions\" /> with the paths to different authentication pages.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ApplicationPaths"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for all child content expressions.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView"
+        }
+      },
+      {
+        "HashCode": 863415798,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            An <see cref=\"T:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore`1\" /> that uses <see cref=\"T:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationState\" /> as the\n            state to be persisted across authentication operations.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Action",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the <see cref=\"T:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions\" /> action the component needs to handle.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Action"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "AuthenticationState",
+            "TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationState",
+            "Documentation": "\n            <summary>\n            Gets or sets the <typeparamref name=\"TAuthenticationState\" /> instance to be preserved during the authentication operation.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AuthenticationState"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LoggingIn",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogIn\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LoggingIn",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Registering",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Register\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Registering",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "UserProfile",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Profile\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "UserProfile",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CompletingLoggingIn",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInCallback\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "CompletingLoggingIn",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogInFailed",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<System.String>",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInFailed\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogInFailed",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogOut",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOut\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogOut",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CompletingLogOut",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutCallback\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "CompletingLogOut",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogOutFailed",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<System.String>",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutFailed\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogOutFailed",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogOutSucceeded",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutSucceeded\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogOutSucceeded",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnLogInSucceeded",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationState>",
+            "Documentation": "\n            <summary>\n            Gets or sets an event callback that will be invoked with the stored authentication state when a log in operation succeeds.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "OnLogInSucceeded",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnLogOutSucceeded",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationState>",
+            "Documentation": "\n            <summary>\n            Gets or sets an event callback that will be invoked with the stored authentication state when a log out operation succeeds.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "OnLogOutSucceeded",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ApplicationPaths",
+            "TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationApplicationPathsOptions",
+            "Documentation": "\n            <summary>\n            Gets or sets the <see cref=\"T:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationApplicationPathsOptions\" /> with the paths to different authentication pages.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ApplicationPaths"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for all child content expressions.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1548879758,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LoggingIn",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogIn\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LoggingIn",
+            "ParentTag": "RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LoggingIn",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1571030666,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LoggingIn",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogIn\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LoggingIn",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LoggingIn",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1331865818,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.Registering",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Register\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registering",
+            "ParentTag": "RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.Registering",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 768219155,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.Registering",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Register\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registering",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.Registering",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1797669456,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.UserProfile",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Profile\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UserProfile",
+            "ParentTag": "RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.UserProfile",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -407445296,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.UserProfile",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Profile\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UserProfile",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.UserProfile",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1176485758,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.CompletingLoggingIn",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInCallback\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CompletingLoggingIn",
+            "ParentTag": "RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.CompletingLoggingIn",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 186644205,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.CompletingLoggingIn",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInCallback\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CompletingLoggingIn",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.CompletingLoggingIn",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1003875789,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogInFailed",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInFailed\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogInFailed",
+            "ParentTag": "RemoteAuthenticatorView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'LogInFailed' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogInFailed",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -534892260,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogInFailed",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInFailed\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogInFailed",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'LogInFailed' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogInFailed",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2082508199,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogOut",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOut\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogOut",
+            "ParentTag": "RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogOut",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1171879729,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogOut",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOut\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogOut",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogOut",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -573219358,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.CompletingLogOut",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutCallback\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CompletingLogOut",
+            "ParentTag": "RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.CompletingLogOut",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -1870794997,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.CompletingLogOut",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutCallback\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CompletingLogOut",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.CompletingLogOut",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -224003534,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogOutFailed",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutFailed\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogOutFailed",
+            "ParentTag": "RemoteAuthenticatorView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'LogOutFailed' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogOutFailed",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -155021508,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogOutFailed",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutFailed\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogOutFailed",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'LogOutFailed' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogOutFailed",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 730509557,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogOutSucceeded",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutSucceeded\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogOutSucceeded",
+            "ParentTag": "RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogOutSucceeded",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -1367896826,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogOutSucceeded",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutSucceeded\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogOutSucceeded",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorView.LogOutSucceeded",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1086557543,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            A component that handles remote authentication operations in an application.\n            </summary>\n            <typeparam name=\"TAuthenticationState\">The user state type persisted while the operation is in progress. It must be serializable.</typeparam>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RemoteAuthenticatorViewCore"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TAuthenticationState",
+            "TypeName": "System.Type",
+            "Documentation": "Specifies the type of the type parameter TAuthenticationState for the Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState> component.",
+            "Metadata": {
+              "Common.PropertyName": "TAuthenticationState",
+              "Components.TypeParameter": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Action",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the <see cref=\"T:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions\" /> action the component needs to handle.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Action"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "AuthenticationState",
+            "TypeName": "TAuthenticationState",
+            "Documentation": "\n            <summary>\n            Gets or sets the <typeparamref name=\"TAuthenticationState\" /> instance to be preserved during the authentication operation.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AuthenticationState",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LoggingIn",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogIn\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LoggingIn",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Registering",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Register\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Registering",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "UserProfile",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Profile\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "UserProfile",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CompletingLoggingIn",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInCallback\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "CompletingLoggingIn",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogInFailed",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<System.String>",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInFailed\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogInFailed",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogOut",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOut\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogOut",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CompletingLogOut",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutCallback\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "CompletingLogOut",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogOutFailed",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<System.String>",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutFailed\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogOutFailed",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogOutSucceeded",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutSucceeded\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogOutSucceeded",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnLogInSucceeded",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<TAuthenticationState>",
+            "Documentation": "\n            <summary>\n            Gets or sets an event callback that will be invoked with the stored authentication state when a log in operation succeeds.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "OnLogInSucceeded",
+              "Components.EventCallback": "True",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnLogOutSucceeded",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<TAuthenticationState>",
+            "Documentation": "\n            <summary>\n            Gets or sets an event callback that will be invoked with the stored authentication state when a log out operation succeeds.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "OnLogOutSucceeded",
+              "Components.EventCallback": "True",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ApplicationPaths",
+            "TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationApplicationPathsOptions",
+            "Documentation": "\n            <summary>\n            Gets or sets the <see cref=\"T:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationApplicationPathsOptions\" /> with the paths to different authentication pages.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ApplicationPaths"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for all child content expressions.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>",
+          "Components.GenericTyped": "True"
+        }
+      },
+      {
+        "HashCode": 2096984877,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            A component that handles remote authentication operations in an application.\n            </summary>\n            <typeparam name=\"TAuthenticationState\">The user state type persisted while the operation is in progress. It must be serializable.</typeparam>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TAuthenticationState",
+            "TypeName": "System.Type",
+            "Documentation": "Specifies the type of the type parameter TAuthenticationState for the Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState> component.",
+            "Metadata": {
+              "Common.PropertyName": "TAuthenticationState",
+              "Components.TypeParameter": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Action",
+            "TypeName": "System.String",
+            "Documentation": "\n            <summary>\n            Gets or sets the <see cref=\"T:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions\" /> action the component needs to handle.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Action"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "AuthenticationState",
+            "TypeName": "TAuthenticationState",
+            "Documentation": "\n            <summary>\n            Gets or sets the <typeparamref name=\"TAuthenticationState\" /> instance to be preserved during the authentication operation.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "AuthenticationState",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LoggingIn",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogIn\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LoggingIn",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Registering",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Register\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Registering",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "UserProfile",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Profile\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "UserProfile",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CompletingLoggingIn",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInCallback\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "CompletingLoggingIn",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogInFailed",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<System.String>",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInFailed\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogInFailed",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogOut",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOut\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogOut",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "CompletingLogOut",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutCallback\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "CompletingLogOut",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogOutFailed",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<System.String>",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutFailed\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogOutFailed",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "LogOutSucceeded",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutSucceeded\" /> is being handled.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "LogOutSucceeded",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnLogInSucceeded",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<TAuthenticationState>",
+            "Documentation": "\n            <summary>\n            Gets or sets an event callback that will be invoked with the stored authentication state when a log in operation succeeds.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "OnLogInSucceeded",
+              "Components.EventCallback": "True",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "OnLogOutSucceeded",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<TAuthenticationState>",
+            "Documentation": "\n            <summary>\n            Gets or sets an event callback that will be invoked with the stored authentication state when a log out operation succeeds.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "OnLogOutSucceeded",
+              "Components.EventCallback": "True",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ApplicationPaths",
+            "TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationApplicationPathsOptions",
+            "Documentation": "\n            <summary>\n            Gets or sets the <see cref=\"T:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationApplicationPathsOptions\" /> with the paths to different authentication pages.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "ApplicationPaths"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for all child content expressions.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>",
+          "Components.GenericTyped": "True",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1038664980,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LoggingIn",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogIn\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LoggingIn",
+            "ParentTag": "RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LoggingIn",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -912445082,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LoggingIn",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogIn\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LoggingIn",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LoggingIn",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2127448953,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.Registering",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Register\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registering",
+            "ParentTag": "RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.Registering",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -1778285113,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.Registering",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Register\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registering",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.Registering",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1087496398,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.UserProfile",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Profile\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UserProfile",
+            "ParentTag": "RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.UserProfile",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -995041798,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.UserProfile",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.Profile\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UserProfile",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.UserProfile",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -103388259,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.CompletingLoggingIn",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInCallback\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CompletingLoggingIn",
+            "ParentTag": "RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.CompletingLoggingIn",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1416240702,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.CompletingLoggingIn",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInCallback\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CompletingLoggingIn",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.CompletingLoggingIn",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 851812874,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogInFailed",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInFailed\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogInFailed",
+            "ParentTag": "RemoteAuthenticatorViewCore"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'LogInFailed' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogInFailed",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 144435492,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogInFailed",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogInFailed\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogInFailed",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'LogInFailed' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogInFailed",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 772004504,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogOut",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOut\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogOut",
+            "ParentTag": "RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogOut",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1787588485,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogOut",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOut\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogOut",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogOut",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1948487601,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.CompletingLogOut",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutCallback\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CompletingLogOut",
+            "ParentTag": "RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.CompletingLogOut",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 356036470,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.CompletingLogOut",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutCallback\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CompletingLogOut",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.CompletingLogOut",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1648497644,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogOutFailed",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutFailed\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogOutFailed",
+            "ParentTag": "RemoteAuthenticatorViewCore"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'LogOutFailed' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogOutFailed",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 324056312,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogOutFailed",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutFailed\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogOutFailed",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'LogOutFailed' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogOutFailed",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 489617816,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogOutSucceeded",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutSucceeded\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogOutSucceeded",
+            "ParentTag": "RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogOutSucceeded",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -374390636,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogOutSucceeded",
+        "AssemblyName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+        "Documentation": "\n            <summary>\n            Gets or sets a <see cref=\"T:Microsoft.AspNetCore.Components.RenderFragment\" /> with the UI to display while <see cref=\"F:Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticationActions.LogOutSucceeded\" /> is being handled.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LogOutSucceeded",
+            "ParentTag": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.RemoteAuthenticatorViewCore<TAuthenticationState>.LogOutSucceeded",
           "Components.IsSpecialKind": "Components.ChildContent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }

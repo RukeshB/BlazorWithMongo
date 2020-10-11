@@ -35,7 +35,6 @@
           "Microsoft.AspNetCore.Authentication": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.OAuth": "3.1.0.0",
           "Microsoft.AspNetCore.Authorization.Policy": "3.1.0.0",
-          "Microsoft.AspNetCore.Components.Authorization": "3.1.0.0",
           "Microsoft.AspNetCore.Components.Server": "3.1.0.0",
           "Microsoft.AspNetCore.Connections.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.CookiePolicy": "3.1.0.0",
@@ -341,6 +340,21 @@
         }
       },
       "Microsoft.AspNetCore.Components.Analyzers/3.1.6": {},
+      "Microsoft.AspNetCore.Components.Authorization/3.1.6": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "3.1.6",
+          "Microsoft.AspNetCore.Components": "3.1.6"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Components.Authorization.dll": {
+            "assemblyVersion": "3.1.6.0",
+            "fileVersion": "3.100.620.31714"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Components.Authorization.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Components.Forms/3.1.6": {
         "dependencies": {
           "Microsoft.AspNetCore.Components": "3.1.6"
@@ -388,6 +402,21 @@
         },
         "compile": {
           "lib/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Components.WebAssembly.Authentication/3.2.1": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Authorization": "3.1.6",
+          "Microsoft.AspNetCore.Components.Web": "3.1.6"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll": {
+            "assemblyVersion": "3.2.1.0",
+            "fileVersion": "3.200.120.31714"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll": {}
         }
       },
       "Microsoft.AspNetCore.Components.WebAssembly.HttpHandler/3.2.0": {
@@ -1417,6 +1446,7 @@
         "dependencies": {
           "BlazorWithMongo.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "3.2.1",
+          "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "3.2.1",
           "System.Net.Http.Json": "3.2.0"
         },
         "runtime": {
@@ -1476,12 +1506,6 @@
       "Microsoft.AspNetCore.Authorization.Policy/3.1.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Authorization.Policy.dll": {}
-        },
-        "compileOnly": true
-      },
-      "Microsoft.AspNetCore.Components.Authorization/3.1.0.0": {
-        "compile": {
-          "Microsoft.AspNetCore.Components.Authorization.dll": {}
         },
         "compileOnly": true
       },
@@ -3039,6 +3063,13 @@
       "path": "microsoft.aspnetcore.components.analyzers/3.1.6",
       "hashPath": "microsoft.aspnetcore.components.analyzers.3.1.6.nupkg.sha512"
     },
+    "Microsoft.AspNetCore.Components.Authorization/3.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+glScc0i8x9gw3F37/8n1pC/znoi7JOG0jjVIyW3UOrXJc5/BT0dkruYLnTk6u5vtnnOCzNQ7uoCnyKBcF9ijg==",
+      "path": "microsoft.aspnetcore.components.authorization/3.1.6",
+      "hashPath": "microsoft.aspnetcore.components.authorization.3.1.6.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Components.Forms/3.1.6": {
       "type": "package",
       "serviceable": true,
@@ -3059,6 +3090,13 @@
       "sha512": "sha512-SHM3OGZc2PlH0FI9O1yGOj9pqiWqSkfxYD5sz+ZMz1MhHlI0mTQsDfe0AjoYjKA+ZfheJe40yd1ilImsJyvGkg==",
       "path": "microsoft.aspnetcore.components.webassembly/3.2.1",
       "hashPath": "microsoft.aspnetcore.components.webassembly.3.2.1.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.WebAssembly.Authentication/3.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O3pNgg2VpMDTh3v/84Fr/ZRyV2+Xexqf4PkTnVpDDBqi9Rw4fh5dJBaw8Cj12XrTNSBgS0YYhqE1VJhhpFVESw==",
+      "path": "microsoft.aspnetcore.components.webassembly.authentication/3.2.1",
+      "hashPath": "microsoft.aspnetcore.components.webassembly.authentication.3.2.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Components.WebAssembly.HttpHandler/3.2.0": {
       "type": "package",
@@ -3808,11 +3846,6 @@
       "sha512": ""
     },
     "Microsoft.AspNetCore.Authorization.Policy/3.1.0.0": {
-      "type": "referenceassembly",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.AspNetCore.Components.Authorization/3.1.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""
